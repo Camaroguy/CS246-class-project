@@ -1,8 +1,4 @@
 hello world
 test a change on github
 the best change in the whole world right here!
-<<<<<<< HEAD
-something different
-=======
-another change
-ce0f231e9ad4c871ba414df0745850d1eb6ab803
+
